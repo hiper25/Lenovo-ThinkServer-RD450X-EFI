@@ -11,6 +11,11 @@
 ## Features
 - All work
 
+## BIOS Settings
+- CSM Disable
+- Serial Port ALL Disable
+- Intel VT-d Enable
+
 ## Thanks
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/ "OpenCore")
 [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "OpenCore Install Guide")
